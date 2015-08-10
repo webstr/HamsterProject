@@ -1,14 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="Encoding">
+  <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8">
     <file url="file://$PROJECT_DIR$/src/main/java/com/test/ChannelTraffic.java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/main/java/com/test/Server.java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/main/java/com/test/ServerHandler.java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/main/java/com/test/ServerIndexPage.java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/main/java/com/test/ServerInitializer.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/test/dao/ChannelRequest.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/test/dao/ChannelView.java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/main/java/com/test/dao/Dao.java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/main/java/com/test/dao/RedirectRequest.java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/main/java/com/test/dao/ServerRequest.java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/src/main/java/com/test/statistic/ConnectionStatistic.java" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
   </component>
 </project>
